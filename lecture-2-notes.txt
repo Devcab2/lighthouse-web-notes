@@ -1,0 +1,36 @@
+## Primitive data types
+
+- js has 7 primitive types of data
+-boolean
+-string
+- undefined
+- null
+- number
+- symbol
+- bigint
+
+> Everything that isn't a primitive data type is an object?.
+
+> Primimtive types are immutable, meaning they cannot be modified after they are created.
+
+> you cant make changes to primitive data types unless you redefine them completely.
+
+> Objects are data structures that allow us to store data and functionality together.
+>objects are made up of key/value pairs.
+>The key in an oject is always a string (usually)
+>The value can be any valid javascript value(primitives, arrays, objects,or functions)
+>In arrays, you can use an index to access a value
+>if you know the name of the key you can use dot notation
+
+## Passing values to functions
+
+
+> if the name of the key is dynamic (stored in a variable) use square bracket notation
+
+> Primitive types are passed to function by value. This means that a copy is made and used by a function. The original value is unchanged.
+
+> Objects are passed to functions by reference. This means that internal values of the object can be changed by the function, but the object itself cannot be reassigned.
+
+## Functions inside of objects
+
+
