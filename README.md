@@ -7,5 +7,5 @@ This repository contains all of the notes taken by Chris Bowyer (https://github.
 
 ## Table Of Contents
 
-* Week 1
-  * Day 1
+* [Week 1](/week_1/)
+  * [Day 1](/week_1/Day_1/)
